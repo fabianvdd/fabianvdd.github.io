@@ -1,0 +1,27 @@
+	<head>
+		<title>Voetbal Info</title>
+		
+		<meta charset ="utv-8">
+		<meta name = "fewpoort" content= "width = device-width, initial-scale="1>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+		
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	
+	<body>
+		<div id="sidebar">
+			<sidebar> <h5>vtrbgv rt3yrsbtvre</h5></sidebar>
+		
+		<div id="sidebar2">
+			<sidebar2> <h5> hallo </h5> </sidebar2>
+			
+		<div id="wrapper">
+			<article><h2>Voetbal Info</h2></article>
+				<h4><header>Dit is de webstie waar je alle informatie kunt vinden over de top 5 leagues en de eredivisie. Zoals de clubs, transfermarkt, de komende wedstrijden en de standen.</h4></header>
+		
+		<script src="https://code.jquery.com/jquery-3.4.1.slim.js"
+		integrity="sha256-BTlTdQO9/fascB1drekrDVkaKd9PkwBymMlHOiG+qLI="
+		crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+		
+	</body>
